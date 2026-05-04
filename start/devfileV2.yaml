@@ -1,6 +1,6 @@
 schemaVersion: 2.3.0
 metadata:
-  name: sample-cics-api
+  name: rahul-cics-api
 attributes:
   controller.devfile.io/storage-type: ephemeral
 projects:
