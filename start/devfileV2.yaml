@@ -8,7 +8,7 @@ projects:
       checkoutFrom:
         revision: main
       remotes:
-        origin: 'https://github.com/zosconnect/sample-cics-api.git'
+        origin: 'https://github.com/rahul-poondla/rahul-cics-api.git'
     name: catalog-manager-api
 components:
   - name: tools
