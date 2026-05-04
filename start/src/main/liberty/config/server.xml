@@ -2,4 +2,7 @@
   <featureManager>
     <feature>zosconnect:zosConnect-3.0</feature>
   </featureManager>
+  
+  
+ <include location="cics.xml"/>
 </server>
